@@ -2,6 +2,7 @@
 
 # Number of days of inactivity before a closed issue or pull request is locked
 daysUntilLock: 30
+site_url: https://github.com/mukulsaini95/mrbug
 
 # Issues and pull requests with these labels will not be locked. Set to `[]` to disable
 exemptLabels: []

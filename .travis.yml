@@ -4,6 +4,8 @@ node_js:
   - 9
   - 8
 
+site_url: https://github.com/mukulsaini95/mrbug
+  
 script:
   - node ./internals/scripts/generate-templates-for-linting
   - npm test -- --maxWorkers=4
