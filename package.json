@@ -4,7 +4,7 @@
   "description": "A highly scalable, offline-first foundation with the best DX and a focus on performance and best practices",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/WeiFei365/react-boilerplate-3.6.0.git"
+    "url": "https://github.com/mukulsaini95/mrbug.git"
   },
   "engines": {
     "npm": ">=5",
@@ -56,9 +56,9 @@
     "antd"
   ],
   "bugs": {
-    "url": "https://github.com/WeiFei365/react-boilerplate-3.6.0/issues"
+    "url": "https://github.com/mukulsaini95/mrbug.git/issues"
   },
-  "homepage": "https://github.com/WeiFei365/react-boilerplate-3.6.0#readme",
+  "homepage": "https://github.com/mukulsaini95/mrbug.git#readme",
   "pre-commit": "lint:staged",
   "babel": {
     "plugins": [
