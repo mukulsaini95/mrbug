@@ -60,7 +60,6 @@
   "bugs": {
     "url": "https://github.com/mukulsaini95/mrbug.git/issues"
   },
-  "homepage": "https://github.com/mukulsaini95/mrbug",
   "pre-commit": "lint:staged",
   "babel": {
     "plugins": [
