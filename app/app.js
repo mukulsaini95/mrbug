@@ -29,6 +29,7 @@ import configureStore from './configureStore';
 
 // Import CSS reset and Global Styles
 import './global-styles.css';
+import "./assets/css/main.css"
 
 // Create redux store with history
 const initialState = {};
