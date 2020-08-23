@@ -16,7 +16,7 @@ import "../../assets/css/main.css"
 export default class HomePage extends React.PureComponent {
   render() {
     return (
-      <div className="container">
+      <div className="devContainer">
         <div className="sideNav">
           <div className="miniProfile">
             <h5>Mukul Saini</h5>
