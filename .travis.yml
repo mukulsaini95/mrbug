@@ -4,7 +4,7 @@ node_js:
   - 9
   - 8
 
-site_url: https://github.com/mukulsaini95/mrbug
+https://mukulsaini95.github.io/mrbug
   
 script:
   - node ./internals/scripts/generate-templates-for-linting
